@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+div{
+    text-align: center;
+    margin-top: 200px;
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div a{
+    text-decoration: none;
+    color:brown;
+    font-style: oblique;
+}
+
+div ul{
+    list-style: none;
+}
