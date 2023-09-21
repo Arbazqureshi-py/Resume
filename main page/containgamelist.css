@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-size:x-large;
+    font-style: oblique;
+} 
+div {
+    text-align: center;
+    margin-top: 200px;
+}
+
+div a{
+    text-decoration: none;
+    color:#26103e;
+
+}
+div ul{
+    list-style: none;
+}
+div li{
+    padding:20px;
+}
